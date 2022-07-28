@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Augustin-LouisCauchy/npm-Homework.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Augustin-Cauchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Augustin-LouisCauchy/npm-Homework/issues"
+  },
+  "homepage": "https://github.com/Augustin-LouisCauchy/npm-Homework#readme"
+}
